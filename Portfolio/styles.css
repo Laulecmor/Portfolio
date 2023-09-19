@@ -6,6 +6,7 @@ body {
   background-color:#8c6c66cb;
 }
 
+/* lines 10-65 are working on my nav bar */
 nav {
   position:fixed;
   left: 0;
@@ -73,7 +74,7 @@ section{
   font-size: 12px;
 }
 
-
+/* 78-88 lines are sub section in my website and right now it's just changing the background color*/ 
 #Portfolio {
   background-color: rgb(255, 255, 255);
 }
@@ -86,12 +87,7 @@ section{
   background-color: rgb(255, 255, 255);
 }
 
-
-
-
-
- 
-  
+/* 91-100 is the header I have following the nav bar */
   h1 {
     color:rgb(240, 233, 233); 
     font-size: 120px; 
@@ -102,7 +98,6 @@ section{
     border-bottom-style: solid;
     padding: 0px;
   }  
-  
   
   
 p{
